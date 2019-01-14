@@ -11,25 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/creational/singleton/Main.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/creational/singleton/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/creational/builder/Address.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
-              <folding>
-                <element signature="e#425#426#0" expanded="true" />
-                <element signature="e#461#462#0" expanded="true" />
-                <element signature="e#561#562#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="412">
+              <caret line="71" column="54" selection-start-line="71" selection-start-column="54" selection-end-line="71" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -50,6 +36,8 @@
         <option value="$PROJECT_DIR$/src/structural.kt" />
         <option value="$PROJECT_DIR$/src/creational/singleton/Main.kt" />
         <option value="$PROJECT_DIR$/src/creational/singleton/Test.java" />
+        <option value="$PROJECT_DIR$/src/creational/singleton/JavaSingleton.java" />
+        <option value="$PROJECT_DIR$/src/creational/builder/Address.java" />
       </list>
     </option>
   </component>
@@ -113,7 +101,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JavaSingleton">
+  <component name="RunManager" selected="Application.Address">
+    <configuration name="Address" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="creational.builder.Address" />
+      <module name="DesignPatterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JavaSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="creational.singleton.JavaSingleton" />
       <module name="DesignPatterns" />
@@ -136,6 +131,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Address" />
         <item itemvalue="Application.JavaSingleton" />
         <item itemvalue="Kotlin.creational.singleton.KotlinSingletonKt" />
       </list>
@@ -173,22 +169,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/creational/singleton/Main.kt">
+    <entry file="file://$PROJECT_DIR$/src/creational/singleton/KotlinSingleton.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="273">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/creational/singleton/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/creational/singleton/JavaSingleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        <state relative-caret-position="119">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
           <folding>
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/creational/builder/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="71" column="54" selection-start-line="71" selection-start-column="54" selection-end-line="71" selection-end-column="54" />
         </state>
       </provider>
     </entry>
